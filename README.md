@@ -33,21 +33,14 @@ This Final Year Project focuses on developing an AI-powered acne detection syste
 
 ## Project Structure
 
-public/ → Static assets
-src/ → React frontend source code
-fyp_CB010973_.py → Python script for model logic / inference
+public - Static assets
+src - React frontend source code
+fyp_CB010973_.py - Python script for model logic / inference
 
 
 
 
 
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 
